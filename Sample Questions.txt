@@ -1,0 +1,153 @@
+Early Manuscripts
+Paul
+Good Confession
+Jerusalem
+Athletic Activities
+TF
+Is this a picture of the Rosetta Stone?
+rosettaStone.jpg
+T
+5
+15
+MC
+What was the original name of the disciple of Jesus Christ, who was named Paul (later), and who went to Damascus at one point in his lifetime and how did he live?
+paperWithBurlapBorder.jpg
+Thomas
+Peter
+Simon
+Saul
+D
+5
+15
+TF
+Jesus is Lord.
+!
+T
+5
+10
+MC
+On what animal did Jesus of Nazareth enter Jerusalem?
+!
+Young donkey
+USDA organic cow
+"meek" camel
+First-born sheep
+A
+5
+15
+NE
+Kick the soccerball into the basketball hoop.         First team to do it gets 800 points!
+!
+5
+0
+TF
+Is this a picture of the Rosetta Stone?
+rosettaStone.jpg
+T
+10
+15
+MC
+What was the original name of the disciple of Jesus Christ, who was named Paul (later), and who went to Damascus at one point in his lifetime and how did he live?
+paperWithBurlapBorder.jpg
+Thomas
+Peter
+Simon
+Saul
+D
+10
+15
+TF
+Jesus is Lord.
+!
+T
+10
+10
+MC
+On what animal did Jesus of Nazareth enter Jerusalem?
+!
+Young donkey
+USDA organic cow
+"meek" camel
+First-born sheep
+A
+10
+15
+NE
+Kick the soccerball into the basketball hoop.         First team to do it gets 800 points!
+!
+10
+0
+TF
+Is this a picture of the Rosetta Stone?
+rosettaStone.jpg
+T
+15
+15
+MC
+What was the original name of the disciple of Jesus Christ, who was named Paul (later), and who went to Damascus at one point in his lifetime and how did he live?
+paperWithBurlapBorder.jpg
+Thomas
+Peter
+Simon
+Saul
+D
+15
+15
+TF
+Jesus is Lord.
+!
+T
+15
+10
+MC
+On what animal did Jesus of Nazareth enter Jerusalem?
+!
+Young donkey
+USDA organic cow
+"meek" camel
+First-born sheep
+A
+15
+15
+NE
+Kick the soccerball into the basketball hoop.         First team to do it gets 800 points!
+!
+15
+0
+TF
+Is this a picture of the Rosetta Stone?
+rosettaStone.jpg
+T
+20
+15
+MC
+What was the original name of the disciple of Jesus Christ, who was named Paul (later), and who went to Damascus at one point in his lifetime and how did he live?
+paperWithBurlapBorder.jpg
+Thomas
+Peter
+Simon
+Saul
+D
+20
+15
+TF
+Jesus is Lord.
+!
+T
+20
+10
+MC
+On what animal did Jesus of Nazareth enter Jerusalem?
+!
+Young donkey
+USDA organic cow
+"meek" camel
+First-born sheep
+A
+20
+15
+NE
+Kick the soccerball into the basketball hoop.         First team to do it gets 800 points!
+!
+20
+0

@@ -1,0 +1,15 @@
+Things to burn onto final cd:
+
+- "mainPackage" folder(and all of its contents)
+- "images" folder(and of its contents)
+- "picturesForQuestions" folder (will probably be empty)
+- "questionFORMAT.txt"
+- "questions.txt"
+- "Sample Questions.txt"
+- font files with directions on installing them
+- eclipse and java runtime files
+
+
+
+Note: I may want to make a usb flash drive with all of this on it too.
+Note: I may want to copy onto the destination hard drive for better performance and less chance of problems

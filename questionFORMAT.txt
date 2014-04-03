@@ -1,0 +1,60 @@
+Bible Bowl Question File Format (View in "Notepad", turn-off "Word Wrap" (Format->Word Wrap), and turn on the "Status Bar" (View->Status Bar) to view this document correctly)
+
+
+Apostles                                   - First write the titles of each of the 5 columns; should be no longer than 20 characters (look at status bar to check how many cols)
+Old Testament                              - First write the titles of each of the 5 columns; should be no longer than 20 characters
+New Testament                              - First write the titles of each of the 5 columns; should be no longer than 20 characters
+Cartoons                                   - First write the titles of each of the 5 columns; should be no longer than 20 characters
+Miscellaneous                              - First write the titles of each of the 5 columns; should be no longer than 20 characters
+
+---------
+this space should not be here in real question file
+---------
+
+MC                                         - choose 'MC', 'TF', or 'NE'.  This denotes that the following question will be 'multiple-choice', 'true or false', or 'neither', respectively.  Use 'NE', for 'neither', to cause only the query to be shown (a human judge will determine whether or not the question is correct (there will be a button for 'right' or 'wrong')).
+What was Paul's original name?             - Write the query here
+!                                          - the file name of the picture (if this question has no accompanying picture put a '!' character here)
+Thomas                                     - multiple choice answer A
+Peter                                      - multiple choice answer B
+Simon                                      - multiple choice answer C
+Saul                                       - multiple choice answer D
+D                                          - correct multiple choice answer MUST be CAPS
+10                                         - point worth
+15                                         - lifespan (i.e., how much time, in seconds, should pass until the question expires from inactivity) (use '0' if you do not want the question to be timed)
+------------------
+OR
+------------------
+TF                                         - choose 'MC', 'TF', or 'NE'.  This denotes that the following question will be 'multiple-choice', 'true or false', or 'neither', respectively.  Use 'NE', for 'neither', to cause only the query to be shown (a human judge will determine whether or not the question is correct (there will be a button for 'right' or 'wrong')).
+Is this a picture of the apostle Luke.     - Write the query here
+luke.jpg                                   - the file name of the picture (if this question has no accompanying picture put a '!' character here)
+F                                          - correct answer must be CAPS
+15                                         - point worth
+15                                         - lifespan (i.e., how much time, in seconds, should pass until the question expires from inactivity) (use '0' if you do not want the question to be timed)
+------------------
+OR
+------------------
+NE                                         - choose 'MC', 'TF', or 'NE'.  This denotes that the following question will be 'multiple-choice', 'true or false', or 'neither', respectively.  Use 'NE', for 'neither', to cause only the query to be shown (a human judge will determine whether or not the question is correct (there will be a button for 'right' or 'wrong')).
+Where was Jesus born?                      - Write the query here
+!                                          - the file name of the picture (if this question has no accompanying picture put a '!' character here)
+5                                          - point worth
+15                                         - lifespan (i.e., how much time, in seconds, should pass until the question expires from inactivity) (use '0' if you do not want the question to be timed)
+------------------
+OR
+------------------
+FJ                                         - use 'FJ' for Final Jeopardy (this should be at the very end of the document)
+The Wedding at Cana                        - write the cateory for final jeopardy here
+
+
+IMPORTANT NOTES:
+
+- The question file (questions.txt) must strictly follow the conventions stated here and may not have any extraneous letters or numbers or spaces (any characters).  Any inconsistences could, and probably will, mess the whole thing up.
+- Look at 'Sample Questions.txt' to see how an actual question file should look.  This should help in understanding the question file format.
+- Use Notepad (notepad.exe) to edit question files.  Notepad should be located at: Start -> All Programs -> Accessories -> Notepad.  If you absolutely cannot find Notepad, use Wordpad.  If you are using a mac, get out of my house.
+- Case (Uppercase or Lowercase) matters!
+- Questions should probably be worth between 0-25 points (once a player gets 1000 points or more the scoreboard runs out of room to display it (well, it displays it, but the score hangs over the edge of the parchment image)) ALSO: It is suggested that you designate the point value of the questions in a way that will not allow ties.
+- Remember: after each line there should not be any spaces, just press the 'enter' button.  When you have a complete question file press Ctrl+A (which will highlight all of the document), then examine the document for any extraneous spaces at the end of any of the lines.
+- The question file that will be used when you run the program is named "questions.txt".
+- If you need to change a team's score: Double-Click on their scoreboard, use keyboard to type in new score, press OK.
+- Put all pictures to be used in questions in the 'picturesForQuestions' folder
+- Line breaks will occur at columns 55 and 110.  the furthest you should allow your wuestion to go is about column 165.  To see column number quickly: View->Status Bar.  This will show at the bottom right of the screen the column number (e.g.: "Col 52").
+- For Jeopardy Board style playing you should have 20 questions.  As of this writing, the program only allows Jeopardy Board style playing, so only have 20 questions and put the first point denomination first (5 questions) then the next after that.
